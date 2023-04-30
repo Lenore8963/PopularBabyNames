@@ -1,6 +1,11 @@
 # PopularBabyNames
 This Java mini project provides an analysis of baby names from the United States based on the popularity and rank of each name over the years. The dataset used in this project is in CSV format and contains the name, gender, and the number of babies born with that name for each year.
 
+This is a Coursera course assignment.
+Course:
+Java Programming: Solving Problems with Software
+https://www.coursera.org/learn/java-programming?specialization=object-oriented-programming
+
 ## Features
 The BabyBirths class includes the following methods:
 
